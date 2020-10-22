@@ -1,0 +1,21 @@
+What is this project about? 
+Beginner friendly Automation project.
+
+It is gonna teach me about the APIs, linking them to apps 
+and more about how to use them to create requests and get requests 
+from web APIs
+
+Description:
+Getting  liked videos from Youtube and adding them to spotify play list
+
+How?
+Using the Youtube and Spotify APIs 
+Additionally we're using a Youtube DL library to make get tokens for liked songs 
+and make our project a bit 
+easier
+
+Files Description:
+1. main.py: contains the class and functions to create a playlsit
+
+2. secrets.py: contains  the user id and tokens required to access the APIs
+
